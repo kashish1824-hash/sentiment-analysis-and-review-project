@@ -6,7 +6,7 @@ A machine learning web application that classifies user reviews as Positive 😊
 
 ## 🚀 Overview
 
-This project combines Machine Learning, NLP, and Flask to build a web app where users can enter a review and instantly get sentiment prediction.
+This project demonstrates an end-to-end ML pipeline from data preprocessing to real-time deployment using Flask.
 
 ---
 
